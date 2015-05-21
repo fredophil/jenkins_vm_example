@@ -12,6 +12,7 @@ architecture rtl_code of top_xor is
 	signal        foo      :        std_logic;
 	signal        foo2     :        std_logic;
 	signal foo3            :        std_logic;
+	signal foo4 : std_logic;
 	--specman stub
 	component comspec
 	end component;
